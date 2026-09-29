@@ -239,4 +239,4 @@ This repository serves as the official landing page for Avidemux. The software i
 **Get the most recent version of Avidemux today!**
 
 ---
-**Last updated:** 2026-09-29 00:55:02 UTC
+**Last updated:** 2026-09-29 06:30:45 UTC
